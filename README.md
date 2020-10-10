@@ -9,5 +9,5 @@
 👔 [linkedin][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/farrelrouw
+[linkedin]: https://linkedin.com/in/farrel-rouw-655b331b8/
 
